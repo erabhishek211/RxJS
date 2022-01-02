@@ -1,7 +1,7 @@
 # RxJS
 RxJS study course
 ----------------------------------------------------------------------------
-Q1. What is a stream?
+Q1. What is a stream?  
 Ans: A continious flow of data over certain interval is called stream.
 ----------------------------------------------------------------------------
 Q2. What is RXJS?
